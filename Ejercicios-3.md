@@ -1,4 +1,4 @@
-# Ejercicios - Tema 4: Colaboración en Repositorios
+# Ejercicios - Tema 3: Colaboración en Repositorios
 
 A continuación, encontrarás 10 ejercicios prácticos sobre colaboración en repositorios Git. Intenta resolverlos antes de consultar la teoría.
 
